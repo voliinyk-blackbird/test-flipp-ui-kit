@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Geist, Geist_Mono } from "next/font/google";
-import { Button } from "@/components";
+import {Button} from "my-ui-kit"
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
